@@ -1,0 +1,12 @@
+#name
+{
+  font-family: Baskerville, serif;
+  color: red;
+  text-align: center;
+  
+}
+#maintext
+{
+  text-align: center;
+  font-family: Baskerville, serif;
+}
